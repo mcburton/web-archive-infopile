@@ -1,4 +1,6 @@
-# Web Archive Reader
+# Web Archive Infopile
+
+This is my collection of links and other informations that I have been slowly collecting about web archives. It is very loosely organized and not very complete. 
 
 
 
@@ -34,7 +36,7 @@
 - [2015 National Agenda for the NDSA](http://www.digitalpreservation.gov/ndsa/nationalagenda/index.html) ([full report](http://www.digitalpreservation.gov/ndsa/documents/2015NationalAgenda.pdf))
 - [WARC file format specification](http://www.digitalpreservation.gov/formats/fdd/fdd000236.shtml)
 - [Web Archiving in 2015 -- a Quick Redux of IIPC's General Assembly at Stanford](https://library.stanford.edu/blogs/digital-library-blog/2015/05/web-archiving-2015-quick-redux-iipcs-general-assembly-stanford)
--[Two Grants Announced Supporting Web Archiving](http://blog.archive.org/2015/04/26/two-grants-announced-supporting-web-archiving/)
+- [Two Grants Announced Supporting Web Archiving](http://blog.archive.org/2015/04/26/two-grants-announced-supporting-web-archiving/)
 - [Archive-It Research Services](https://webarchive.jira.com/wiki/display/ARS/Archive-It+Research+Services)
 - [On Archivy](https://medium.com/on-archivy) a medium collection that touches on web archives topics
 - [Web-Archiving Report by Maureen Pennock for DPC](http://dx.doi.org/10.7207/twr13-01)
@@ -49,11 +51,11 @@
 - [The UK Web Archive, born-digital sources, and rethinking the future of research | Web Archives for Historians](http://webarchivehistorians.org/2015/06/05/the-uk-web-archive-born-digital-sources-and-rethinking-the-future-of-research/)
 - [Web archiving bibliography](http://webarchivehistorians.org/the-web-archive-bibliography/) by the web archiving historians
 - [NARA Guidance of Managing Web Records](http://www.archives.gov/records-mgmt/policy/managing-web-records-index.html)
+
 #### Web vs. Native
 
 - [Web vs. native: let’s concede defeat](http://www.quirksmode.org/blog/archives/2015/05/web_vs_native_l.html)
 - [Adactio: Journal—Web! What is it good for?](https://adactio.com/journal/9016)
--
 
 ### Apparently there are books
 
@@ -91,13 +93,16 @@
 - [George Washington University](http://library.gwu.edu/web-archives)
 
 
-## tools
+## Tools
+
 - [ArchiveReady.com: Website Archivability Testing Tool](http://archiveready.com/)
 - [Webrecorder](https://webrecorder.io/)
 - [heritrix](https://webarchive.jira.com/wiki/plugins/servlet/mobile#content/view/2800)
 - [Tools and Software | IIPC](http://netpreserve.org/web-archiving/tools-and-software)
 - [Hiberlink plugin for Zotero](http://hiberlink.org/zotero.html) preserves zotero items in an archive. Example is [archive.is](http://archive.is)
-
+- [pydb - Python Wayback Machine](https://github.com/ikreymer/pywb)
+- [Webrecorder.io - hosted service for recording browser sessions I think](https://webrecorder.io/)
+- [Memento - A tools and api for finding previous versions of pages within web archives](http://timetravel.mementoweb.org/about/)
 
 ## Archives
 
@@ -105,57 +110,37 @@
 - [Common crawl](https://commoncrawl.org)
 - [Archive.is](http://archive.is) an independant web archive
 - [Perma.cc](https://perma.cc) archive for scholars, journals, & courts preserve links
--
 
 
 ## Events
 
 - [Web archives conference at michigan](http://www.lib.umich.edu/webarchivesconference)
-
-ipres 2013 papers (just a few)
-http://purl.pt/24107/1/
-
-2014 proceedings (few more in here)
-http://pandora.nla.gov.au/pan/149803/20150323-1209/ipres2014.org/sites/default/files/upload/iPres-Proceedings-final.pdf
-
-[ipres proceedings](http://www.ipres-conference.org)
+- [ipres 2013 proceedings](http://purl.pt/24107/1/)
+- [ipres 2014 proceedings](http://pandora.nla.gov.au/pan/149803/20150323-1209/ipres2014.org/sites/default/files/upload/iPres-Proceedings-final.pdf)
+- [IIPC General Assembly 2015 videos on Youtube](https://www.youtube.com/playlist?list=PL5AWMCpp1Dii04znyO2dYwQvVQ12ndqv4) [(technical training workshops)](https://www.youtube.com/playlist?list=PL5AWMCpp1DigHCCNKV3r8dpNKW3YTyQJw)
+- [2015 Conference on *Web Archives as Scholarly Sources* programme](http://resaw.eu/wp-content/uploads/2014/06/Resaw-conference-programme-v.3.pdf) [(Storify of tweets)](https://storify.com/ihr_history/web-archives-as-scholarly-sources-issues-practices)
 
 
-## People/Groups
+## Groups
 
 - [Web Science and Digital Libraries Research Group](Web Science and Digital Libraries Research Group) at Old Dominion University. This is a very extensive blog.
 - [Web Archive History](https://twitter.com/HistWebArchives) - twitter account for the [webarchivehistorians.org](http://webarchivehistorians.org) website
 - [Research Infrastructure for the Study of Archived Web Materials](http://resaw.eu/) - a group based out of Denmark focused on the study of archived web materials. They hosted a 2 day event and [posted the abstracts online](http://events.netlab.dk/conference/index.php/resaw/june2015/paper/view/52)
-
-
-### DH'y
-
-- Ed SUmmers
-- Ian Milliagan
-
-
-### CS
-
-- Martin Klein
-- [Michael Nelson](http://www.cs.odu.edu/~mln/) - [pubs](http://www.cs.odu.edu/~mln/pubs/all.html)
-- Herbert van de sopel
-
-### Libraries
-
-- [Andrew Jackson](http://anjackson.net)
 - [LOC Web archiving effort](http://www.loc.gov/webarchiving/)
+
+## Peoples
+
+- [Ed Summers](https://twitter.com/edsu)
+- [Ian Milligan](https://twitter.com/ianmilligan1)
+- [Martin Klein](https://twitter.com/mart1nkle1n)
+- [Michael Nelson](http://www.cs.odu.edu/~mln/) - [pubs](http://www.cs.odu.edu/~mln/pubs/all.html)
+- [Herbert Van de Sompel](http://public.lanl.gov/herbertv/papers/)
+- [Andy Jackson](https://twitter.com/anjacks0n) - [(web)](http://anjackson.net)
+- [Niels Brügger](https://twitter.com/nielsbr)
+- [Mahadev "Satya" Satyanarayanan](http://www.cs.cmu.edu/~satya/)
 
 
 ## Sources
 
 - [Congressional and Federal Government Web Harvests](http://webharvest.gov)
 
-
-## Misc
-
-
-#### From Aaron
-
-
-HVdS papers
-http://public.lanl.gov/herbertv/papers/
