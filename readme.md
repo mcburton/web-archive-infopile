@@ -92,17 +92,29 @@ This is my collection of links and other informations that I have been slowly co
 - [Purdue](https://www.lib.purdue.edu/sites/default/files/spcol/PurdueUniversityWebArchiveCollectingPolicy.pdf)
 - [George Washington University](http://library.gwu.edu/web-archives)
 
+## Teaching
+
+- [SI639 W13 Syllabus](https://www.si.umich.edu/sites/default/files/SI639_syllabus_W13_0.pdf)
+- 
+
 
 ## Tools
+
+### collecting
 
 - [ArchiveReady.com: Website Archivability Testing Tool](http://archiveready.com/)
 - [Webrecorder](https://webrecorder.io/)
 - [heritrix](https://webarchive.jira.com/wiki/plugins/servlet/mobile#content/view/2800)
 - [Tools and Software | IIPC](http://netpreserve.org/web-archiving/tools-and-software)
 - [Hiberlink plugin for Zotero](http://hiberlink.org/zotero.html) preserves zotero items in an archive. Example is [archive.is](http://archive.is)
-- [pydb - Python Wayback Machine](https://github.com/ikreymer/pywb)
 - [Webrecorder.io - hosted service for recording browser sessions I think](https://webrecorder.io/)
 - [Memento - A tools and api for finding previous versions of pages within web archives](http://timetravel.mementoweb.org/about/)
+
+### using
+
+- [pydb - Python Wayback Machine](https://github.com/ikreymer/pywb)
+- [Warcbase - processing of WARC files built on Hadoop](https://github.com/lintool/warcbase)
+
 
 ## Archives
 
@@ -114,6 +126,7 @@ This is my collection of links and other informations that I have been slowly co
 
 ## Events
 
+- [2014 Wire (Working with Internet archives for REsearch)](http://wp.comminfo.rutgers.edu/nsfia/)
 - [Web archives conference at michigan](http://www.lib.umich.edu/webarchivesconference)
 - [ipres 2013 proceedings](http://purl.pt/24107/1/)
 - [ipres 2014 proceedings](http://pandora.nla.gov.au/pan/149803/20150323-1209/ipres2014.org/sites/default/files/upload/iPres-Proceedings-final.pdf)
