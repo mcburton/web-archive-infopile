@@ -59,14 +59,14 @@ This is my collection of links and other informations that I have been slowly co
 
 ### Apparently there are books
 
-- [Web Archiving edited by Julien Masanès](http://www.amazon.com/Web-Archiving-Julien-Masanès/dp/3540233385/)
+- [Web Archiving edited by Julien Masanès](http://www.amazon.com/Web-Archiving-Julien-Masanès/dp/3540233385/) - (link to springer PDF version [here](http://link.springer.com/book/10.1007%2F978-3-540-46332-0))
 - [Archiving Websites by Adian Brown](http://www.amazon.com/Archiving-Websites-Information-Management-Professionals/dp/1856045536/)
 
 ## Digital Taxidermy
 
 - only academic source is a [4s paper](http://citation.allacademic.com/meta/p_mla_apa_research_citation/5/1/8/1/1/p518112_index.html)
 - preserving the "front end" vs. the "back end" or static vs. dynamic
--
+
 
 ## Web Archiving Policy Examples
 
@@ -95,7 +95,7 @@ This is my collection of links and other informations that I have been slowly co
 ## Teaching
 
 - [SI639 W13 Syllabus](https://www.si.umich.edu/sites/default/files/SI639_syllabus_W13_0.pdf)
-- 
+
 
 
 ## Tools
